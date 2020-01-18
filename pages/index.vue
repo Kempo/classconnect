@@ -3,7 +3,7 @@
     <div>
       <logo />
       <h1 class="title">
-        classconnect
+        classconnect - hello
       </h1>
       <h2 class="subtitle">
         Aaron Chen
