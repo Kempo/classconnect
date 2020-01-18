@@ -6,7 +6,7 @@
         classconnect
       </h1>
       <h2 class="subtitle">
-        My best Nuxt.js project
+        Aaron Chen
       </h2>
       <div class="links">
         <a href="https://nuxtjs.org/" target="_blank" class="button--green">
