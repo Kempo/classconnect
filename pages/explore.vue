@@ -1,8 +1,8 @@
 <template>
   <div>
-    <h1 style="padding-left: 50px; padding-top: 25px;">
-      Explore local schools
-    </h1>
+    <center style="margin-bottom: 0.4em; margin-top: 0.2em;">
+      <h1 style="font-size: 3em;">Explore local schools</h1>
+    </center>
     <hr />
     <div
       style="padding: 50px 50px 0px 50px; display: flex; flex-direction: column;"
@@ -62,8 +62,8 @@ export default {
     return {
       assocs: [
         {
-          name: 'Roosevelt High School',
-          address: '1410 NE 66th St, Seattle, WA 98115',
+          name: 'Rainier Beach High School',
+          address: '8815 Seward Park Ave S, Seattle, WA 98118',
           current: 2,
           tiers: [
             {
@@ -82,7 +82,7 @@ export default {
               raised: 300,
               deal: "Donate now to receive 25% off at Sherry's Italian!",
               desc:
-                'Hi, this is Matilda from RHS PTSA! Right now to support our history and writing classes, we are down stationery supplies for 5 classes. Please help us out! Thank you :)'
+                'Hi, this is Pamela from RBHS PTA! Right now to support our history and writing classes, we are down stationery supplies for 5 classes. Please help us out! Thank you :)'
             }
           ]
         },

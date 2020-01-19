@@ -1,14 +1,15 @@
 <template>
   <div class="contianer">
     <div class="header">
-      <center>Donation Page Header</center>
+      <center>Donate to Rainier Beach</center>
     </div>
+    <hr style="width: 100%;" />
     <div class="school-details">
       <div class="about-school">
         <b-card no-body>
           <b-card-body>
             <b-card-title style="display:inline-block; height:2em">
-              Roosevelt High School
+              Rainier Beach High School
               <b-col md="3" style="float:right">
                 <b-card-img
                   src="https://picsum.photos/400/400/?image=20"
@@ -17,7 +18,7 @@
               </b-col>
             </b-card-title>
             <b-card-sub-title class="mb-2">
-              Total Funding: $1500
+              Funding Goal: $1500
             </b-card-sub-title>
             <b-card-text>
               Grades K-12
@@ -130,10 +131,9 @@
         <b-card-body>
           <b-card-title>Message from the PTA</b-card-title>
           <b-card-text>
-            This is an example if the PTA wanted to say a message to any
-            potential donors This is an example if the PTA wanted to say a
-            message to any essage to anyessage to anyessage to anyessage to any
-            essage to anyessage to anyessage to anyessage to anyessage to any
+            Hi, this is Pamela from RBHS PTA! Right now to support our history
+            and writing classes, we are down stationery supplies for 5 classes.
+            Please help us out! Thank you :)
           </b-card-text>
         </b-card-body>
       </b-card>
@@ -169,7 +169,8 @@
 .header {
   font-size: 3em;
   font-family: 'Poppins';
-  margin-bottom: 1em;
+  margin-bottom: 0.4em;
+  margin-top: 0.2em;
 }
 hr {
   width: 80%;
