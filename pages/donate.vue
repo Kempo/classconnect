@@ -168,7 +168,6 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
 .header {
   font-size: 3em;
-  font-family: 'Poppins';
   margin-bottom: 0.4em;
   margin-top: 0.2em;
 }
@@ -177,7 +176,6 @@ hr {
   align: center;
 }
 .select-donation {
-  font-family: 'Poppins';
   position: fixed;
   background-color: #ccc;
   margin-bottom: 0;
